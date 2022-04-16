@@ -9,7 +9,7 @@
 
 
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-* [CSSL](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## Demonstração
 * [Bikcraft](https://bikcraft2.netlify.app/)
